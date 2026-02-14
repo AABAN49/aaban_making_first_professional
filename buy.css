@@ -1,0 +1,24 @@
+
+body{
+    background-color: black;
+}
+div{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(27, 27, 27);
+    margin-left: 500px;
+    margin-top: 100px;
+}
+p{
+    color: rgba(9, 255, 0, 0.808);
+    font-size: 20px;
+    margin-top: 30px;
+}
+button{
+    background-color: rgb(81, 255, 0);
+    font-size: 50px;
+    margin-left: 100px;
+}
+a{
+    text-decoration: none;
+}
